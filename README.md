@@ -10,7 +10,7 @@
 | 6. | Garbage Collector | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp06.java) |
 | 7. | File Handling with reader/writer | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp07.java) |
 | 8. | File Handling with related exceptions | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp08.java) |
-| 9. | String Tokenizer | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp03=9.java) |
+| 9. | String Tokenizer | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp09.java) |
 | 10.| Usage of Try, Catch, Throw and Finally | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp10.java) |
 | 11.| Multi-threaded program | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp11.java) |
 | 12.| Thread Synchronisation | [Open](https://github.com/blackpeps/javalab2022/blob/main/Code/exp12.java) |
